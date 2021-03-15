@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NightModeExample</string>
+    <string name="night_mode_example">Night Mode Example</string>
+    <string name="text">Light Mode</string>
+
+    <string name="settings_theme_key" translatable="false">theme</string>
+    <string name="settings_fragment_tab" translatable="false">settings_fragment_tab</string>
+    <string name="settings_theme_title">Choose theme</string>
+    <string name="settings_theme_dialog_title">Choose theme</string>
+    <string name="settings_toolbar">Settings</string>
+    <string name="go_to_configuration">Go to Configuration</string>
+</resources>
